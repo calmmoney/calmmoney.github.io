@@ -45,11 +45,10 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
+username: calmmoney
 branch: master
-relative_source: 
-destination: 
+relative_source: https://calmmoney.github.io/
+destination: https://calmmoney.github.io/
 production_url:  https://calmmoney.github.io/
 source_url:  https://calmmoney.github.io/
 
