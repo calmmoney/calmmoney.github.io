@@ -10,11 +10,11 @@ language: 'ru-ru'
 name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
-short_url: 'https://calmmoney.github.io'
+short_url: 'https://calmmoney.github.io/'
 google_analytics: 
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: https://calmmoney.github.io
+baseurl: https://calmmoney.github.io/
 
 # Permalinks
 permalink: /:title
@@ -48,8 +48,8 @@ lsi: false
 username: calmmoney
 repo: calmmoney
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ../calmmoney/
+destination: ../calmmoney/
 production_url:  https://calmmoney.github.io/
 source_url:  https://calmmoney.github.io/
 
