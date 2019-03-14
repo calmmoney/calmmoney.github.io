@@ -6,7 +6,7 @@ title: Суиверия в онлайн казино
 date: 2019-02-03 18:18:00
 tags: fiction
 subclass: 'post tag-fiction'
-author: abraham
+author: Fishka
 ---
 
 ### ИГРОВЫЕ СУЕВЕРИЯ

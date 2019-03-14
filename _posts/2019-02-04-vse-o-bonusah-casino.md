@@ -6,7 +6,7 @@ title: Gettysburg Address
 date: 2019-02-04 11:18:00
 tags: fiction
 subclass: 'post tag-fiction'
-author: abraham
+author: Fishka
 ---
 
 ### ОПАСНОСТЬ БЕЗДЕПОЧИТНЫХ БОНУСОВ
