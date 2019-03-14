@@ -7,8 +7,8 @@ paginate: 5
 language: 'ru-ru'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Личный блог об азартных играх'
+description: "В моем блоге Вы можете найти советы как играть в онлайн-казино, покере, и т.д"
 
 short_url: 'https://calmmoney.github.io/'
 google_analytics: 
