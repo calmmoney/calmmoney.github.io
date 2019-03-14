@@ -2,7 +2,7 @@
 layout: post
 cover: false
 navigation: false
-title: Gettysburg Address
+title: Выбо покера - плюсы и минусы
 date: 2019-02-03 10:18:00
 tags: fiction
 subclass: 'post tag-fiction'
