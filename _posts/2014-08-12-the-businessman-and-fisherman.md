@@ -1,46 +1,41 @@
 ---
 layout: post
-cover: 'assets/images/cover7.jpg'
-navigation: True
-title: The Businessman & the fisherman
-date: 2014-08-12 10:18:00
-tags: fables fiction
-subclass: 'post tag-test tag-content'
-logo: 'assets/images/ghost.png'
-author: casper
-categories: casper
+cover: false
+navigation: false
+title: Gettysburg Address
+date: 2019-02-04 11:18:00
+tags: fiction
+subclass: 'post tag-fiction'
+author: abraham
 ---
 
-An American businessman took a vacation to a small coastal Mexican village on doctor’s orders. Unable to sleep after an urgent phone call from the office the first morning, he walked out to the pier to clear his head. A small boat with just one fisherman had docked, and inside the boat were several large yellowfin tuna. The American complimented the Mexican on the quality of his fish.
+### ОПАСНОСТЬ БЕЗДЕПОЧИТНЫХ БОНУСОВ
 
-“How long did it take you to catch them?” the American asked.
+На первый взгляд может показаться, что ничего страшного в подарке от казино быть не может. В какой-то мере так оно и есть, ничего сверхъестественного не произойдет. Но все же, бонусы от казино влекут за собой некую опасность. Давайте разбираться, чем же так страшны бездепозитные бонусы.
 
-“Only a little while,” the Mexican replied in surprisingly good English.
+**Коварные интриги казино**
 
-“Why don’t you stay out longer and catch more fish?” the American then asked.
+Естественно, многие игроки, выбирая игровую площадку, руководствуются желанием получить «стартовый капитал». Т.е. многим необходимы бонусы для того, чтобы начать играть. В этом нет ничего плохого, наоборот, многие даже рекомендуют начинать играть именно таким образом и только со временем переходить на реальные деньги. Но тут не все так просто. Важно вспомнить про бесплатный сыр в мышеловке. 
 
-“I have enough to support my family and give a few to friends,” the Mexican said as he unloaded them into a basket.
+Помните, что казино используют бездепозитные бонусы для того, чтобы привлекать как можно больше игроков на свой сайт. Но игровая площадка совершенно не заинтересована в том, чтобы отдавать деньги бесплатно. Тут то и кроется главный подвох. Чтобы вывести бонусы со своего счета, их придется отыграть, а сделать это можно только со своими реальными деньгами. Поэтому вкладывать в казино придется все равно. 
 
-“But… What do you do with the rest of your time?”
+**Подводные камни бесплатных бонусов**
 
-The Mexican looked up and smiled. “I sleep late, fish a little, play with my children, take a siesta with my wife, Julia, and stroll into the village each evening, where I sip wine and play guitar with my amigos. I have a full and busy life, señor.”
+Говоря о подарках казино, стоит сказать, делаются они игрокам только потому, что условия их использования невыполнимы. Т.е. казино в любом случае наживется. 
 
-The American laughed and stood tall. “Sir, I’m a Harvard M.B.A. and can help you. You should spend more time fishing, and with the proceeds, buy a bigger boat. In no time, you could buy several boats with the increased haul. Eventually, you would have a fleet of fishing boats.”
+Главные недостатки бонусов:
 
-He continued, “Instead of selling your catch to a middleman, you would sell directly to the consumers, eventually opening your own cannery. You would control the product, processing, and distribution. You would need to leave this small coastal fishing village, of course, and move to Mexico City, then to Los Angeles, and eventually to New York City, where you could run your expanded enterprise with proper management.
+> не возможность снятия;
+> короткий срок действия;
+> ограниченный выбор игр для использования и пр.
 
-The Mexican fisherman asked, “But, señor, how long will all this take?”
+Это только часть подводных камней. Поэтому, прежде чем начать играть на любом ресурсе, внимательно ознакомьтесь с правилами. Запомните, главная задача казино – как можно дольше удерживать ваше внимание и вызывать желание играть.
 
-To which the American replied, “15-20 years, 25 tops.”
+Используя подобные презенты, казино вовлекает игрока, дает почувствовать вкус азарта, а затем «подсаживает». У человека просто не остается выбора, чтобы забрать свои деньги ему нужно вкладываться и играть. А согласно статистике, шанс на победу ниже, чем на проигрыш. Соответственно, большая часть игроков уходят ни с чем. 
 
-“But what then, señor?”
+**Несколько дополнительных рекомендаций**
 
-The American laughed and said, “That’s the best part. When the time is right, you would announce an IPO and sell your company stock to the public and become very rich. You would make millions.”
+Если все же хочется поиграть, то выбирайте депозитные бонусы. Т.е. вы вкладываете деньги, а казино вам возвращает 50%. Используя подобную систему, вы увеличиваете свои шансы на заработок. 
 
-“Millions señor? Then what?"
+Также не стоит играть на незнакомых площадках. Посещайте только те казино, у которых хорошая репутация. Узнать статистику можно, почитав отзывы реальных игроков. 
 
-“Then you would retire and move to a small coastal fishing village, where you would sleep late, fish a little, play with your kids, take a siesta with your wife, and stroll in to the village in the evenings where you could sip wine and play your guitar with your amigos.”
-
-Adapted from the "Anekdote zur Senkung der Arbeitsmoral" by **Heinrich Böll**
-
-An influential German write and Nobel Prize for Literature in 1972.
