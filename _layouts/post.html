@@ -70,8 +70,10 @@ class: 'post-template'
                     <section class="author">
                         <h4><a href="{{ site.baseurl }}author/{{ page.author }}">{{ author[1].name }}</a></h4>
 
+                        {% if author[1].bio %}
+                            <p> {{ author[1].bio }}</p>
                         {% else %}
-                            <p>Read <a href="{{ site.baseurl }}">more posts</a> by this author.</p>
+                            <p>Read <a href="{{ site.baseurl }}author/{{ page.author }}">more posts</a> by this author.</p>
                         {% endif %}
                         <div class="author-meta">
                             {% if author[1].location %}<span class="author-location icon-location"> {{ author[1].location }}</span>{% endif %}
@@ -80,7 +82,9 @@ class: 'post-template'
                     </section>
 
                     <!-- /author  -->
-                
+
+                    <section class="share">
+                    </section>
                 {% endif %}
             {% endfor %}
 
