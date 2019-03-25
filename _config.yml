@@ -14,7 +14,7 @@ short_url: 'http://www.bogenschuetzen-unterroth.info/'
 google_analytics: 
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: http://www.bogenschuetzen-unterroth.info/
+baseurl: /
 
 # Permalinks
 permalink: /:title
