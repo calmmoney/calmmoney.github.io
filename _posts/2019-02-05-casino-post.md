@@ -2,7 +2,7 @@
 layout: post
 cover: false
 navigation: false
-title: Происхождения игры в ПОКЕР
+title: Происхождение игры в ПОКЕР
 date: 2019-02-05T10:18:00.000+00:00
 tags: fiction
 subclass: post tag-fiction
