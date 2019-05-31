@@ -2,7 +2,7 @@
 layout: post
 cover: false
 navigation: false
-title: Суиверия в онлайн казино
+title: Суеверия в онлайн казино
 date: 2019-02-03T18:18:00.000+00:00
 tags: fiction
 subclass: post tag-fiction
